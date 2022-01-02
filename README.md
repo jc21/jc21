@@ -4,7 +4,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="#"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%59A9FF&lines=Full+Stack+Developer;Home+Network+Hobbyist)](https://git.io/typing-svg)" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%59A9FF&lines=Full+Stack+Developer;Home+Network+Hobbyist" /></a>
 </p>
 
 ## 📙 Some of my open source projects
