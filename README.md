@@ -7,7 +7,7 @@
 
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/jc21/nginx-proxy-manager"><img width="270" alt="Nginx Proxy Manager" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jc21&repo=nginx-proxy-manager&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/NginxProxyManager/nginx-proxy-manager"><img width="270" alt="Nginx Proxy Manager" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NginxProxyManager&repo=nginx-proxy-manager&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
   <a href="https://github.com/jc21/dnsrouter"><img width="270" alt="dnsrouter" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jc21&repo=dnsrouter&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
   <a href="https://github.com/jc21/juxtapose"><img width="270" alt="Juxtapose" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jc21&repo=juxtapose&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
 </p>
