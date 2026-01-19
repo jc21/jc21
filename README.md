@@ -17,13 +17,6 @@
   <a href="https://github.com/jc21?tab=repositories"><img alt="All my Repos" src="https://shields.io/badge/-All%20my%20Repos-3d3d3d?style=for-the-badge" /></a>
 </p>
 
-## 🔥 Streak stats
-
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="#"><img alt="Streak streak" src="https://ghstreakstats.jc21.com/?user=jc21&theme=default&hide_border=true&background=3d3d3d&stroke=59A9FF&ring=59A9FF&fire=59A9FF&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=59A9FF"/></a>
-</p>
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ## 📊 GitHub Profile Stats
 
@@ -34,7 +27,7 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ## 📊 Recent GitHub Activity
 
-<a href="#"><img alt="My recent GitHub activity" src="https://activity-graph.herokuapp.com/graph?username=jc21&bg_color=3d3d3d&color=59A9FF&line=59A9FF&point=ffffff&hide_border=true&area_color=59A9FF&area=true" /></a>
+<a href="#"><img alt="My recent GitHub activity" src="https://github-readme-activity-graph.vercel.app/graph?username=jc21&bg_color=3d3d3d&color=59A9FF&line=59A9FF&point=ffffff&hide_border=true&area_color=59A9FF&area=true" /></a>
 <br />
 
 ---
