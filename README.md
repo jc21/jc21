@@ -21,7 +21,7 @@
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="#"><img alt="Streak streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jc21&theme=default&hide_border=true&background=3d3d3d&stroke=59A9FF&ring=59A9FF&fire=59A9FF&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=59A9FF"/></a>
+  <a href="#"><img alt="Streak streak" src="https://ghstreakstats.jc21.com/?user=jc21&theme=default&hide_border=true&background=3d3d3d&stroke=59A9FF&ring=59A9FF&fire=59A9FF&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=59A9FF"/></a>
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
